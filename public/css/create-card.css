@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(43, 42, 42);
+}
+
+.main-div-container {
+    margin-top: 12%;
+    border: 10px solid white;
+    padding: 50px;
+    width: 500px;
+    margin-left: 28%;
+}
+
+.input-div-container {
+    margin-top: 30px;
+}
+
+label {
+    color: white;   
+}
+
+.front-page-input {
+    width: 300px;
+    height: 20px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    outline: none;
+}
+
+.back-page-input {
+    width: 300px;
+    height: 20px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    outline: none;
+}
+
+.button-div-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.button {
+    background-color: rgb(179, 174, 174);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 300px;
+    height: 25px;
+}
+
+.button:hover {
+    opacity: 90%;
+}
+
+.button:active {
+    opacity: 80%;
+}
+
+.other-cards-button {
+    color: white;
+    width: 300px;
+    height: 50px;
+    background-color: cadetblue;
+    margin-bottom: 35px;
+    border: none;
+    border-radius: 20px;
+}
+
+.other-cards-button:hover {
+    opacity: 90%;
+}
+
+.other-cards-button:active {
+    opacity: 80%;
+}

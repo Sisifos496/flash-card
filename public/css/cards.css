@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(43, 42, 42);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cards {
+    margin-top: 4%;
+    border: 10px solid white;
+    padding: 50px;
+    width: 500px;
+    margin-left: 28%;
+    height: 500px;
+    overflow: auto;
+}
+
+.card {
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    border-radius: 20px;
+}
+
+.id-text {
+    padding-top: 30px;
+}
+
+.front-text {
+    overflow: auto;
+    height: 45px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.back-text {
+    overflow: auto;
+    height: 45px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
